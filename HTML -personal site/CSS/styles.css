@@ -1,0 +1,20 @@
+
+  body {
+    background-color: powderblue;
+  }
+  hr {
+
+    height: 20px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 6px;
+    width: 8%;
+
+  }
+  h1 {
+    color: #66BFBF;
+  }
+  h3 {
+    color: #66BFBF;
+  }
